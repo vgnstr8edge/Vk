@@ -9,5 +9,11 @@ public class CommentsInfo {
     private boolean avatar;
     private TypeOfComments [] type;
 
+
+    private int count;
+    private int groupsCanPost;
+    private boolean canClose;
+    private boolean canOpen;
+
     // + get/set на все поля
 }

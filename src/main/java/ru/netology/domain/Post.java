@@ -28,5 +28,17 @@ public class Post {
     private boolean isFavorite;
     private int postponedId;
 
+    private Copyright copyright;
+    private Donut donut;
+    private Geo geo;
+    private LikesInfo likesInfo;
+    private Object object;
+    private Placeholder placeholder;
+    private PostSource postSource;
+    private RepostsInfo repostsInfo;
+    private TypeOfComments typeOfComments;
+    private ViewsInfo viewsInfo;
+
+
     // + get/set на все поля
 }
